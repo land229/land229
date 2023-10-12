@@ -1,3 +1,4 @@
+![land229]()
 ### Hi there 👋
 I'm a python developer and cybersecurity undergraduate student at IFRI-UAC. I love solving problems and learning new things especially when it comes to tech. I'd love to learn and share my knowledge with others.  Don't hesitate to contact me in case you'd like to reach me as well.
 
@@ -7,5 +8,9 @@ I'm a python developer and cybersecurity undergraduate student at IFRI-UAC. I lo
 
 - ⚡ Fun fact: I can do a dance with my ear🤣
 
-- 📫 How to reach me: 
+- 📫 How to reach me:
 
+<p align='center'>
+  <a href=""><img height="24" src=""></a>&nbsp;&nbsp;
+  <a href=""><img height="24" src=""></a>&nbsp;&nbsp;
+</p>
