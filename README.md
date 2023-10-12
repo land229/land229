@@ -12,5 +12,5 @@ I'm a python developer and cybersecurity undergraduate student at IFRI-UAC. I lo
 
 <p align='center'>
   <a href=""><img height="24" src="https://github.com/land229/land229/blob/main/facebook_733547.png"></a>&nbsp;&nbsp;
-  <a href=""><img height="24" src=""></a>&nbsp;&nbsp;
+  <a href=""><img height="24" src="https://github.com/land229/land229/blob/main/twitter_5968830.png"></a>&nbsp;&nbsp;
 </p>
